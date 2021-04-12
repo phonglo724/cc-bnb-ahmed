@@ -1,3 +1,25 @@
+Challenge:
+x 1. Create a new React app
+x 2. Fetch characters from rickAndMorty API:
+    a) https://rickandmortyapi.com/api/chara...
+x 3. Display all characters from fetch call:
+x    a) Picture
+x    b) Name
+x    c) Species
+x    d) Status
+4. Make a favorite component
+5. Whenever a character is clicked, they become the favorite.
+6. The favorite component only appears if a favorite has been selected.
+7. If the favorite component is clicked, the favorite goes away.
+---------
+Bonus:
+---------
+What if I wanted to have multiple favorites?
+8. Can only favorite each character once.
+9. If I click on a character in favorites, they are removed from favorites. If I click on them in the cards list they get added to favorites (if they aren’t already there)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
