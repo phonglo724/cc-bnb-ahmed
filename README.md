@@ -1,4 +1,4 @@
-Challenge:
+# Challenge:
 x 1. Create a new React app
 x 2. Fetch characters from rickAndMorty API:
     a) https://rickandmortyapi.com/api/chara...
@@ -7,9 +7,9 @@ x    a) Picture
 x    b) Name
 x    c) Species
 x    d) Status
-4. Make a favorite component
-5. Whenever a character is clicked, they become the favorite.
-6. The favorite component only appears if a favorite has been selected.
+x 4. Make a favorite component ( favoriteCharacter.js )
+x 5. Whenever a character is clicked, they become the favorite.
+x 6. The favorite component only appears if a favorite has been selected. ( add onClick on img tag in characterCard and define handleClick. Make sure to console.log('character click', props.character / props.character.name) )
 7. If the favorite component is clicked, the favorite goes away.
 ---------
 Bonus:
